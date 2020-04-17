@@ -1,5 +1,5 @@
 MOONLIGHT
 ==========
 
-+ [HTML slides]()
++ [HTML slides](https://t3rodrig.github.io/moonlight-slides/)
 + [Markdown slides](index.md)
