@@ -1,32 +1,36 @@
 ---
-title: "Untitled"
+title: "Moonlight"
+subtitle: "The moon is a loyal companion"
 author: "Tonalli Rodríguez-López"
+date: "April 25, 2010"
 output: 
   revealjs::revealjs_presentation:
-    theme: moon
+    theme: night
+    center: true
+    transition: slide
+    css: styles.css
 ---
 
-## R Markdown
+## Tonalli Rodríguez-Lopez
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+| Web Development Part Time Bootcamp
+| Ironhack Mexico
+| [\@t3rodrig][] &middot; [github.com/t3rodrig][] &middot; [linkedin.com/in/t3rodrig/][]
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+![Photo](images/cg_box.png){.cg_box}
 
-## Slide with Bullets
+[\@t3rodrig]: https://twitter.com/t3rodrig
+[github.com/t3rodrig]: https://github.com/t3rodrig
+[linkedin.com/in/t3rodrig/]: https://www.linkedin.com/in/t3rodrig/
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+## Demo
 
-## Slide with R Code and Output
+[iron-moonlight.netlify.app/](https://iron-moonlight.netlify.app/){#demo_link}
+![Photo](images/deployment.png){.deployment}
+  
+## Tonalli Rodríguez-Lopez
 
-```{r}
-summary(cars)
-```
+![Photo](images/gracias.png){.thanks}
 
-## Slide with Plot
 
-```{r, echo=FALSE}
-plot(cars)
-```
 
