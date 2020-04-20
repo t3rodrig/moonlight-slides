@@ -3,7 +3,12 @@
 }
 
 .cg_box {
-  width: 45%;
+  height: 25vmin;
+}
+
+#ecommerce {
+  height: 60vmin;
+  border: 0;
 }
 
 #demo_link {
@@ -11,8 +16,9 @@
   font-size:2.0em;
 }
 
-.deployment {
-  width: 35%;
+#App-logo {      
+  height: 40vmin;
+  border: 0;
 }
 
 .thanks {

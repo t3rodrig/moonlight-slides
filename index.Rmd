@@ -2,13 +2,14 @@
 title: "Moonlight"
 subtitle: "The moon is a loyal companion"
 author: "Tonalli Rodríguez-López"
-date: "April 25, 2010"
+date: "April 25, 2020"
 output: 
   revealjs::revealjs_presentation:
     theme: night
     center: true
     transition: slide
     css: styles.css
+    self_contained: false
 ---
 
 ## Tonalli Rodríguez-Lopez
@@ -18,15 +19,22 @@ output:
 | [\@t3rodrig][] &middot; [github.com/t3rodrig][] &middot; [linkedin.com/in/t3rodrig/][]
 
 ![Photo](images/cg_box.png){.cg_box}
+![Photo](images/SciPy-stack.jpg){.cg_box}
+![Photo](images/mern-stack.png){.cg_box}
+![Photo](images/Python-Web-Development.jpg){.cg_box}
 
 [\@t3rodrig]: https://twitter.com/t3rodrig
 [github.com/t3rodrig]: https://github.com/t3rodrig
 [linkedin.com/in/t3rodrig/]: https://www.linkedin.com/in/t3rodrig/
 
+## Project
+
+![Photo](images/ecommerce.png){#ecommerce}
+
 ## Demo
 
 [iron-moonlight.netlify.app/](https://iron-moonlight.netlify.app/){#demo_link}
-![Photo](images/deployment.png){.deployment}
+![Photo](images/deployment-BW.png){#App-logo}
   
 ## Tonalli Rodríguez-Lopez
 
